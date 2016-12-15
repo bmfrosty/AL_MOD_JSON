@@ -1,0 +1,98 @@
+{
+  "DDEX1-1": {
+    "CITIES": [
+      "Phlan"
+    ],
+    "DESIGNERS": [
+      "Shawn Merwin"
+    ],
+    "DMSGUILD": {
+      "MAIN": "http://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e"
+    },
+    "MAXLEVEL": 2,
+    "MINLEVEL": 1,
+    "MISSIONS": {
+      "1": {
+        "FACTIONS": [
+          "Harpers"
+        ],
+        "FOES": [
+          "Bandit",
+          "Guard",
+          "Spy",
+          "Thug"
+        ],
+        "LOCATIONS": [
+          "Abandoned Barn"
+        ],
+        "MAXXP": 100,
+        "MINXP": 75,
+        "TITLE": "The Meeting at Deepnight"
+      },
+      "2": {
+        "FACTIONS": [
+          "Zhentarim"
+        ],
+        "FOES": [
+          "Bugbear",
+          "Goblin",
+          "Wolf",
+          "Worg"
+        ],
+        "MAXXP": 100,
+        "MINXP": 75,
+        "TITLE": "The Screams at Dawn"
+      },
+      "3": {
+        "FACTIONS": [
+          "Lords' Alliance"
+        ],
+        "FOES": [
+          "Zombie",
+          "Skeleton"
+        ],
+        "MAXXP": 100,
+        "MINXP": 75,
+        "TITLE": "The Dead at Highsun"
+      },
+      "4": {
+        "FACTIONS": [
+          "Emerald Enclave"
+        ],
+        "MAXXP": 100,
+        "MINXP": 75,
+        "TITLE": "A Shock at Evenfeast"
+      },
+      "5": {
+        "FACTIONS": [
+          "Order of the Gauntlet"
+        ],
+        "FOES": [
+          "Guard",
+          "Grick",
+          "Scout",
+          "Wolf"
+        ],
+        "MAXXP": 100,
+        "MINXP": 75,
+        "TITLE": "The Danger at Dusk"
+      }
+    },
+    "NAMES": [
+      "DDEX1-1",
+      "DDEX1-01",
+      "DDEX01-01",
+      "DDAL01-01",
+      "DDEX101",
+      "DDEX0101",
+      "DDEX11"
+    ],
+    "SEASON": 1,
+    "SEASONNAME": "Tyranny of Dragons",
+    "TIERS": [
+      1
+    ],
+    "TITLE": "Defiance in Phlan",
+    "TYPE": "INTROMOD"
+  }
+}
