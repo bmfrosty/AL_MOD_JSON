@@ -1,84 +1,6 @@
 {
-  "DDEX1-1": {
-    "CITIES": [
-      "Phlan"
-    ],
-    "DESIGNERS": [
-      "Shawn Merwin"
-    ],
-    "DMSGUILD": {
-      "MAIN": "http://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e"
-    },
-    "MAXLEVEL": 2,
-    "MINLEVEL": 1,
-    "MISSIONS": {
-      "1": {
-        "FACTIONS": [
-          "Harpers"
-        ],
-        "FOES": [
-          "Bandit",
-          "Guard",
-          "Spy",
-          "Thug"
-        ],
-        "LOCATIONS": [
-          "Abandoned Barn"
-        ],
-        "MAXXP": 100,
-        "MINXP": 75,
-        "TITLE": "The Meeting at Deepnight"
-      },
-      "2": {
-        "FACTIONS": [
-          "Zhentarim"
-        ],
-        "FOES": [
-          "Bugbear",
-          "Goblin",
-          "Wolf",
-          "Worg"
-        ],
-        "MAXXP": 100,
-        "MINXP": 75,
-        "TITLE": "The Screams at Dawn"
-      },
-      "3": {
-        "FACTIONS": [
-          "Lords' Alliance"
-        ],
-        "FOES": [
-          "Zombie",
-          "Skeleton"
-        ],
-        "MAXXP": 100,
-        "MINXP": 75,
-        "TITLE": "The Dead at Highsun"
-      },
-      "4": {
-        "FACTIONS": [
-          "Emerald Enclave"
-        ],
-        "MAXXP": 100,
-        "MINXP": 75,
-        "TITLE": "A Shock at Evenfeast"
-      },
-      "5": {
-        "FACTIONS": [
-          "Order of the Gauntlet"
-        ],
-        "FOES": [
-          "Guard",
-          "Grick",
-          "Scout",
-          "Wolf"
-        ],
-        "MAXXP": 100,
-        "MINXP": 75,
-        "TITLE": "The Danger at Dusk"
-      }
-    },
-    "NAMES": [
+  "DESIGNATIONS": {
+    "ADVENTURECODES": [
       "DDEX1-1",
       "DDEX1-01",
       "DDEX01-01",
@@ -87,12 +9,76 @@
       "DDEX0101",
       "DDEX11"
     ],
-    "SEASON": 1,
-    "SEASONNAME": "Tyranny of Dragons",
-    "TIERS": [
-      1
-    ],
     "TITLE": "Defiance in Phlan",
-    "TYPE": "INTROMOD"
+    "SERIES": "DDEX",
+    "SEASON": "01",
+    "MODULENUMBER": "01",
+    "SEASONNAME": "Tyranny of Dragons"
+  },
+  "STAFF": {
+    "DESIGN": ["Shawn Merwin"]
+  },
+  "TECHNICAL": {
+    "ALLEGAL": true,
+    "DMGOLD": 250,
+    "DMXP": 500,
+    "DOWNTIME": 25,
+    "DURATION": 4,
+    "FACTIONQUESTS": [
+      "Harpers",
+      "Order of the Gauntlet",
+      "Emerald Enclave",
+      "Lords' Alliance",
+      "Zhentarim"
+    ],
+    "MAXGOLD": 850,
+    "MAXLEVEL": 2,
+    "MAXRENOWN": 1,
+    "MAXXP": 500,
+    "MINLEVEL": 1,
+    "MINXP": 375,
+    "OPTIMIZED": {
+      "LEVEL": 1,
+      "PLAYERS": 5
+    },
+    "TIERS": [1]
+  },
+  "LINKS": {
+    "DMSGUILD": "http://www.dmsguild.com/product/170384/DDEX101-Defiance-in-Phlan-5e",
+    "DMSGUILDMAPS": "http://www.dmsguild.com/product/171728/Digital-Maps-Season-1-Tyranny-of-Dragons"
+  },
+  "CONTENT": {
+    "BLURB": "The Cult of the Dragon has come to Phlan, a lawless refuge on the Moonsea. Now, with no significant authority to stop the cult, other power groups in the Realms--the Harpers, Order of the Gauntlet, Emerald Enclave, Lords' Alliance , and even the Zhentarim--must untite to stop the cult from fulfilling its dark purpose in the city. Join the fight by participating in any one of five different missions aimed at stopping the cult.  An introductory adventure for 1st-level characters",
+    "FOES": [
+      "Bandit",
+      "Bugbear",
+      "Goblin",
+      "Grick",
+      "Guard",
+      "Scout",
+      "Skeleton",
+      "Spy",
+      "Thug",
+      "Wolf",
+      "Worg",
+      "Zombie"
+    ],
+    "LOCALES": {
+      "CITIES": [
+        "Phlan"
+      ],
+      "LOCATIONS": [
+        "Madame Freona’s Tea Kettle",
+        "Abandoned Barn",
+        "The Bog",
+        "The Goblin Lair",
+        "Xandria’s Crypt",
+        "Lyceum of the Black Lord",
+        "The Secret Prison"
+      ],
+      "REGIONS": [
+        "Moonsea"
+      ]
+    }
   }
 }

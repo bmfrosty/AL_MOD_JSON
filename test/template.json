@@ -1,0 +1,54 @@
+{
+  "DESIGNATIONS": {
+    "ADVENTURECODES": ["string"],
+    "TITLE": "string",
+    "SERIES": "string",
+    "SEASON": "string",
+    "MODULENUMBER": "string",
+    "SEASONNAME": "string",
+    "MULTIPART": {
+      "PARTOFSET": false,
+      "COUNT": 0,
+      "NAME": "string",
+      "POSITION": 0
+    }
+  },
+  "STAFF": {
+    "DESIGN": ["string"]
+  },
+  "TECHNICAL": {
+    "ALLEGAL": true,
+    "DMGOLD": 0,
+    "DMXP": 0,
+    "DOWNTIME": 0,
+    "DURATION": 0,
+    "MAGICITEMS": ["string"],
+    "MAXGOLD": 0,
+    "MAXLEVEL": 0,
+    "MAXRENOWN": 0,
+    "MAXXP": 0,
+    "MINLEVEL": 0,
+    "MINXP": 0,
+    "OPTIMIZED": {
+      "LEVEL": 0,
+      "PLAYERS": 0
+    },
+    "TIERS": [0]
+  },
+  "LINKS": {
+    "DMSGUILD": "URL",
+    "DMSGUILDMAPS": "URL",
+    "DIRECT": "URL",
+    "DIRECTMAPS": "URL"
+  },
+  "CONTENT": {
+    "BLURB": "string",
+    "FACTIONQUESTS": ["string"],
+    "FOES": ["string"],
+    "LOCALES": {
+      "CITIES": ["string"],
+      "LOCATIONS": ["string"],
+      "REGIONS": ["string"]
+    }
+  }
+}
